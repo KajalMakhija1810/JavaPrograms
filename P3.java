@@ -1,7 +1,7 @@
 package Day2;
 //WAJP to read two integers from CLA and swap their Values
 /*
- * Eg:-
+ * Example:-
  * 
  * n1 =10  n2 =20
  * o/p:- n1=20, n2=10
